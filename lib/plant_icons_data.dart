@@ -1,10 +1,10 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
 
 class PlantIcons {
   PlantIcons._();
 
   static const _kFontFam = 'PlantIcons';
-  static const String? _kFontPkg = null;
+  static const String _kFontPkg = "plant_icons";
 
   static const IconData arrowSwapHorizontal = IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData arrowSwapVertical = IconData(0xe801, fontFamily: _kFontFam, fontPackage: _kFontPkg);
