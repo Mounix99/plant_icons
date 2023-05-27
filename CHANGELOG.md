@@ -1,3 +1,7 @@
+## 0.0.2
+
+- fix icons displaying
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Package created with first icons version
