@@ -21,7 +21,7 @@ Include plant_icons in your pubspec.yaml file:
 dependencies:
   flutter:
     sdk: flutter
-  plant_icons: ^0.0.1
+  plant_icons: ^last_actual_version
 ```
 
 ## Usage
